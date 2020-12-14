@@ -2,7 +2,7 @@
 
  # Alec Garcia [![Github](https://img.shields.io/github/followers/alecbrando?logo=github&logoColor=black&style=social)](https://github.com/alecbrando) [![Portfolio](https://img.shields.io/website?down_color=red&down_message=Down&style=plastic&up_color=green&up_message=Live&url=http://alecgarcia-portfolio.herokuapp.com/)](http://alecgarcia-portfolio.herokuapp.com/) [![Mail](https://img.shields.io/badge/-alecbrandongarcia@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:alecbrandongarcia@gmail.com)
 
-[![Linkedin](https://img.shields.io/badge/-alec%20brando-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alec-garcia-4159b0169/)](https://www.linkedin.com/in/alec-garcia-4159b0169/)
+[![Linkedin](https://img.shields.io/badge/-Alec%20Garcia-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alec-garcia-4159b0169/)](https://www.linkedin.com/in/alec-garcia-4159b0169/)
 [![Angellist](https://img.shields.io/badge/Angelist-Follow%20Me-blue)](https://angel.co/u/alec-garcia-5)
 
 
