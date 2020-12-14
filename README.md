@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- # Alec Garcia [![Github](https://img.shields.io/github/followers/alecbrando?logo=github&logoColor=black&style=social)](https://github.com/alecbrando) [![Portfolio](https://img.shields.io/website?down_color=red&down_message=Down&style=plastic&up_color=green&up_message=Live&url=https%3A%2F%alecbrando.github.io%2F)](http://alecgarcia-portfolio.herokuapp.com/) [![Mail](https://img.shields.io/badge/-alecbrandongarcia@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:alecbrandongarcia@gmail.com)
+ # Alec Garcia [![Github](https://img.shields.io/github/followers/alecbrando?logo=github&logoColor=black&style=social)](https://github.com/alecbrando) [![Portfolio](https://img.shields.io/website?down_color=red&down_message=Down&style=plastic&up_color=green&up_message=Live&url=https%3A%2F%alecgarcia-portfolio.herokuapp.com/%2F)](http://alecgarcia-portfolio.herokuapp.com/) [![Mail](https://img.shields.io/badge/-alecbrandongarcia@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:alecbrandongarcia@gmail.com)
 
 [![Linkedin](https://www.linkedin.com/in/alec-garcia-4159b0169/)
 [![Angellist](https://img.shields.io/badge/Angelist-Follow%20Me-blue)](https://angel.co/u/alec-garcia-5)
