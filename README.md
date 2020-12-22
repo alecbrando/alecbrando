@@ -7,7 +7,7 @@
 
 
 ## About me 
-Software Engineer as well as dedicated Power Lifter 🦾. I love working with React / Redux and Python. Seeking an opportunity to bring a diverse skill set and innovative ideas from thinking out of the box to finding unique solutions in a pragmatic way in developing for a software engineering company. 
+Software Engineer as well as dedicated Power Lifter 🦾. I love working with React, React Native / Redux and Python. Seeking an opportunity to bring a diverse skill set and innovative ideas from thinking out of the box to finding unique solutions in a pragmatic way in developing for a software engineering company. 
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
