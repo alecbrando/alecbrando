@@ -22,6 +22,8 @@ Software Engineer as well as dedicated Power Lifter 🦾. I love working with Re
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img height="50" src="https://s3.amazonaws.com/aws-mobile-hub-images/awsappsyncgithub.png"></code>
+<code><img height="50" src="https://s3.amazonaws.com/aws-mobile-hub-images/aws-amplify-logo.png"></code>
 
 
 
