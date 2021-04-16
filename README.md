@@ -34,4 +34,6 @@ Software Engineer as well as dedicated Power Lifter 🦾. I love working with Re
 
  <br>
 
-![Alec's stats](https://github-readme-stats.vercel.app/api?username=alecbrando&show_icons=true)
+<a href="https://github.com/alecbrando">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecbrando&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=221a1c" />
+</a>
