@@ -1,10 +1,5 @@
 ### Welcome to my github page 😁
 
- # Alec Garcia [![Github](https://img.shields.io/github/followers/alecbrando?logo=github&logoColor=black&style=social)](https://github.com/alecbrando)
-
-[![Linkedin](https://img.shields.io/badge/-Alec%20Garcia-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alec-garcia-4159b0169/)](https://www.linkedin.com/in/alec-garcia-4159b0169/)
-[![Angellist](https://img.shields.io/badge/Angelist-Follow%20Me-blue)](https://angel.co/u/alec-garcia-5)
-
 
 ## About me 
 Software Engineer as well as dedicated Power Lifter 🦾. Been all over the map with different frameworks but my go to currently is android!
